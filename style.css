@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.rahul{
+
+    color: rgb(145, 184, 144);
+    font-size: 2cm;
+    font-family: Bebas Neue;
+    text-align: center;
+}
+
+.intro{
+    color: rgb(103, 116, 128);
+    font-size: 1cm;
+    font-family: Roboto Mono;
+}
+.text{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.allotope{
+    color: rgb(103, 116, 128);
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.cat{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.types{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.grahite{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.full{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
