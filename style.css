@@ -9,7 +9,7 @@
 }
 
 .intro{
-    color: rgb(103, 116, 128);
+    color:  rgb(89, 128, 161);
     font-size: 1cm;
     font-family: Roboto Mono;
 }
@@ -19,7 +19,7 @@
     font-family: Roboto Mono
 }
 .allotope{
-    color: rgb(103, 116, 128);
+    color: rgb(89, 128, 161);
     font-size: 1cm;
     font-family: Roboto Mono
 }
@@ -42,4 +42,53 @@
     color: aliceblue;
     font-size: 1cm;
     font-family: Roboto Mono
+}
+.hydro{
+    color: rgb(89, 128, 161);
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.ala{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.saturated{
+    color: rgb(171, 128, 184);
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+
+.def{
+    color: aliceblue;
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+.Alkane{
+    color: rgb(129, 151, 67);
+    font-size: 1cm;
+    font-family: Roboto Mono
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.perodic{
+    color: rgb(197, 170, 155);
+    font: size 1mm;;
+    font-family: Roboto Mono
+}
+.button{
+    color: rgb(104, 156, 160);
 }
